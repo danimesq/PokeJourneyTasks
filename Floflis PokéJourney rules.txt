@@ -1,0 +1,4 @@
+- Can start a journey with any items from previous region, including pokéballs
+- Can't start a journey with other Pokémon other than the starter first
+-
+- Right after a journey starts (before you get your starter) the game is saved and you get the same ID as in previous regions. If RSE/FRLG, the first of these games will define trainer's SID. If you already started your journey before, dont worry: your shinies will have their OT ID kept ??
