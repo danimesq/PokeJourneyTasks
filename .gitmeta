@@ -1,0 +1,4 @@
+chown -h 1000:1000 './guidenew.txt'
+chmod 0755 './guidenew.txt'
+/usr/bin/touch -hcmd "2022-07-19 18:53:41.0000000000 -0300" './guidenew.txt'
+/usr/bin/touch -hcad "2022-11-27 00:45:26.0000000000 -0300" './guidenew.txt'
