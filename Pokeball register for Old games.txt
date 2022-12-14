@@ -1,0 +1,20 @@
+Scyter: Park Ball
+Gligar = Love Ball
+Mantine: Heavy Ball
+Delibird: Level Ball
+Miltank: Level Ball
+Jynx = Lure Ball
+Mamos/Swinub = Lure Ball
+
+Yanma: Great Ball
+Red Gyarados: Great Ball
+Suicune: Great Ball
+Moltres: Ultra Ball (P Red)
+Chansey: Ultra Ball (P Red)
+
+Stantler: normal
+Sneasel: normal
+Swinub: normal
+
+transfer from Virtual Console to PokeBank only those that have normal pokeball
+pokemons with pokeballs exclusive of johto may be stuck in Nintendo DS
